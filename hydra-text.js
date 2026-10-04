@@ -1,6 +1,6 @@
 {
     const getHydra = function () {
-        const whereami = window.location?.href?.includes("hydra.ojack.xyz")
+        const whereami = window.location?.href?.includes("hydra.bton.cat")
             ? "editor"
             : window.atom?.packages
             ? "atom"
